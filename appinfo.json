@@ -1,0 +1,52 @@
+{
+    "appKeys": {
+        "KEY_DAY_END": 2,
+        "KEY_DAY_START": 1,
+        "KEY_MODE": 0,
+        "KEY_NUMBER": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "david.lenk@live.de",
+    "longName": "circuit binary 24h",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_Icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/background_white_blank.png",
+                "name": "IMAGE_BACKGROUND_WB",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND_W",
+                "type": "png"
+            },
+            {
+                "file": "images/background_black_blank.png",
+                "name": "IMAGE_BACKGROUND_SB",
+                "type": "png"
+            },
+            {
+                "file": "images/background5.png",
+                "name": "IMAGE_BACKGROUND_S",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "circuit binary 24h",
+    "uuid": "2acb5fd8-f4fe-40c0-b043-d4a359ec2c61",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
